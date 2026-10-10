@@ -1,1 +1,4 @@
-# pba-project-group6
+# PBA Final Project - Group 6
+
+## Team Members
+- Zhang Jia Ling
