@@ -3,4 +3,4 @@
 ## Team Members
 - Zhang Jia Ling
 - Tneoh Song Xian
-- Cindy Wu
+- Wu Yi Cing
