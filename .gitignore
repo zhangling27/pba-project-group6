@@ -1,1 +1,19 @@
 .DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.quarto/
+*_cache/
+*_files/
+
+# Raw Olist data are downloaded locally and are not stored in Git.
+/data/raw/*.csv
+
+# Temporary PDF render checks.
+/tmp/
+
+# Quarto copies figure assets beside rendered PDFs; source figures live in /figures.
+/output/pdf/figures/
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,5 @@
+seller_status,n_orders,final_late_n,final_late_rate,rate_label,n_label,bar_label
+Seller on time,79128,4404,0.05565665756748559,5.6%,"n = 79,128","5.6%
+(n = 79,128)"
+Seller late,7706,1619,0.2100960290682585,21.0%,"n = 7,706","21.0%
+(n = 7,706)"

@@ -1,0 +1,5 @@
+step,n_orders
+Raw orders,99441
+Delivered orders,96478
+Delivered single-item orders,86843
+Complete analytical sample,86834
